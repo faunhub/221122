@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Myfaunt';
+    src: url('Myfaunt-Regular.eot');
+    src: url('Myfaunt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Myfaunt-Regular.woff2') format('woff2'),
+        url('Myfaunt-Regular.woff') format('woff'),
+        url('Myfaunt-Regular.ttf') format('truetype'),
+        url('Myfaunt-Regular.svg#Myfaunt-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
